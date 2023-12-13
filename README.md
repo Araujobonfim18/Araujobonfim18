@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-expertises">👨‍💻 Expertises</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-portfolio">📚 Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contatos">👽Contatos</a>
+  <a href="#-contatos">👽 Contatos</a>
 </p>
 
 <p align="center">
